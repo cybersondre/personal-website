@@ -1,0 +1,23 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybersondre/personal-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybersondre/personal-website/issues"
+  },
+  "homepage": "https://github.com/cybersondre/personal-website#readme",
+  "description": "",
+  "dependencies": {
+    "marked": "^15.0.7"
+  }
+}
